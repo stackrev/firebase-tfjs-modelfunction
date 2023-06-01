@@ -10,7 +10,7 @@ const admin = require('firebase-admin');
 
 admin.initializeApp();
 const database = admin.database();
-
+ 
 let GLOBAL_COUNT = 0;
 
 exports.helloWorld = onRequest(async (request, response) => {
