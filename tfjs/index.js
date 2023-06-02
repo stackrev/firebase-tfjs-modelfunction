@@ -1,6 +1,6 @@
 /**
  * Tensorflow JS Analysis and Model Building.
- * @adamd1985
+ * @stackrev
  */
 
 import * as tf from '@tensorflow/tfjs-node'
